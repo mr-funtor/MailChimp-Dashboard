@@ -29,16 +29,6 @@
 							<p>Create</p>
 						</div>
 					</li>
-					
-					<li>
-						<div class="action-case-inner">
-							<div class="logo-case">
-								<img src="./img/pen-solid.svg" alt=""/>
-							</div>
-							<!-- <i class="fa-solid fa-pen"></i> -->
-							<p>Create</p>
-						</div>
-					</li>
 				</ul>
 				
 				
