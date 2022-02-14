@@ -20,15 +20,102 @@
 			
 			<div class="actions-container">
 				<ul>
-					<li>
+					<li class="action-case">
 						<div class="action-case-inner">
-							<div class="logo-case">
+							<div class="logo-case pen">
 								<img src="./img/pen-solid.svg" alt=""/>
 							</div>
 							<!-- <i class="fa-solid fa-pen"></i> -->
 							<p>Create</p>
 						</div>
 					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/audience.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Audience</p>
+						</div>
+						
+						<img src="./img/angle-right-solid.svg" alt=""/>
+					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/campaigns.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Campaigns</p>
+						</div>
+						
+						<img src="./img/angle-right-solid.svg" alt=""/>
+					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/process.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Automations</p>
+						</div>
+						
+						<img src="./img/angle-right-solid.svg" alt=""/>
+					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/website.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Website</p>
+						</div>
+						
+						<img src="./img/angle-right-solid.svg" alt=""/>
+					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/content-studio.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Content Studio</p>
+						</div>
+						
+						
+					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/integrations.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Integrations</p>
+						</div>
+						
+						<img src="./img/angle-right-solid.svg" alt=""/>
+					</li>
+					
+					<li class="action-case">
+						<div class="action-case-inner">
+							<div class="logo-case">
+								<img src="./img/search.svg" alt=""/>
+							</div>
+							<!-- <i class="fa-solid fa-pen"></i> -->
+							<p>Search</p>
+						</div>
+						
+						
+					</li>
+					
+					
+					
 				</ul>
 				
 				
