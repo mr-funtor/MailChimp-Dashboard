@@ -107,7 +107,7 @@
 							<div class="logo-case">
 								<img src="./img/search.svg" alt=""/>
 							</div>
-							<!-- <i class="fa-solid fa-pen"></i> -->
+							
 							<p>Search</p>
 						</div>
 						
@@ -165,11 +165,65 @@
 			
 			<section class="details-container">
 				<div class="details-main">
-					<p>dfd\</p>
+					<header class="details-main-header">
+						<p>Here's what's happening</p>
+						
+						<div class="filter-case">
+							<p>Filter by: <span>All activity</span></p>
+							<img src="./img/angle-right-solid.svg" alt=""/>
+						</div>
+					</header>
+					
+					<section class="feed-container">
+						<div>
+							<p>This section is your feed. Your most important 
+							marketing activity will show up here.</p>
+							
+							<p>Once your campaign is underway, things will look a lot more exciting.</p>
+						</div>
+						
+						<div>
+							<button> Create A Campaign</button>
+						</div>
+					
+					</section>
+					
+					<section class="account-info">
+						<p>Account change .Apr 16</p>
+						
+						<p>Charles Monroe has added thier business name and address</p>
+					</section>
+					
+					<section class="feed-end">
+						<p>You've reached the end of the feed!</p>
+						
+						<img src="./img/angle-right-solid.svg" alt=""/>
+					</section>
+					
 				</div>
 				
 				<aside class="details-aside">
-				
+					<header>
+						<p>Total Audience</p>
+						<p>Add contacts</p>
+					</header>
+					
+					<section class="insights-aside">
+						<div>
+							<h1>3</h1>
+							<p>No changes this week</p>
+						</div>
+						
+						<div>
+							<p>Total audience breakdown</p>
+						</div>
+						
+						<div>
+							<p>Charles Monroe</p>
+							<p>No changes this week</p>
+						</div>
+					</section>
+					
 				</aside>
 			</section>
 		
