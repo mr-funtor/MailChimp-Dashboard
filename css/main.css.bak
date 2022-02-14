@@ -15,6 +15,7 @@
 	--main-transition:all 0.5s ease-in-out;
 }
 
+
 main{
 	background:var(--logo-color);
 	width:100%;
@@ -326,7 +327,7 @@ main{
 	padding: 60px;
 	
 	display:flex;
-	gap: 0 20px;
+	gap: 0 40px;
 	
 	
 }
@@ -408,6 +409,7 @@ main{
 	height: 50px;
 	border: 1px solid var(--button-color);
 	color: var(--button-color);
+	cursor:pointer;
 }
 
 .account-info{
@@ -433,7 +435,7 @@ main{
 .feed-end{
 	/* background:pink; */
 	width:100%;
-	height: 20vh;
+	height: 24vh;
 	
 	display:flex;
 	justify-content:space-between;
@@ -441,16 +443,16 @@ main{
 }
 
 .feed-end p{
-	font-size: 22px;
+	font-size: 20px;
 }
 
 .feed-end img{
-	height: 50px;
+	height: 120px;
 }
 
 
 .details-aside{
-	background:yellow;
+	/* background:yellow; */
 	position:sticky;
 	top:0px;
 	
@@ -481,11 +483,23 @@ main{
 }
 
 .insights-aside{
-	background:pink;
+	/* background:pink; */
 	margin-top: 30px;
 	height: 40vh;
+	display:flex;
+	flex-direction:column;
+	justify-content: space-around;
 }
 
 .insights-aside h1:first-child{
 	font-size: 30px;
+}
+
+.insight-aside-base{
+	width: 100%;
+}
+.insight-aside-base>p:first-child{
+	display:flex;
+	justify-content: space-between;
+	font-size: 21px;
 }

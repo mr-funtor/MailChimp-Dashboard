@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-	<link rel="icon" href="./img/32x32.webp"/>
+	<link id="head-icon" rel="icon" href="./img/plain.svg" height="32px" width="32px"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MailChimp Dashboard | MailChimp</title>
 	<script src="https://kit.fontawesome.com/d84320f6bb.js" crossorigin="anonymous"></script>
@@ -211,15 +211,15 @@
 					<section class="insights-aside">
 						<div>
 							<h1>3</h1>
-							<p>No changes this week</p>
+							<h4>No changes this week</h4>
 						</div>
 						
 						<div>
-							<p>Total audience breakdown</p>
+							<h3>Total audience breakdown</h3>
 						</div>
 						
-						<div>
-							<p>Charles Monroe</p>
+						<div class="insight-aside-base">
+							<p><span>Charles Monroe</span><span>3</span></p>
 							<p>No changes this week</p>
 						</div>
 					</section>
